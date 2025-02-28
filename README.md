@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 📫 How to reach me **arjungaur2727@gmail.com**
+- 📫 How to reach me **arjungaur2727@gmail.com** 
 
 - ⚡ Fun fact **Any fool can write code that a machine can understand.**
 
