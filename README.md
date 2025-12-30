@@ -1,22 +1,129 @@
-<h1 align="center">Hi 👋, I'm Arjun Gaur</h1>
-<h3 align="center">Business Intelligence & Machine Learning | B.Tech AI & ML (2022–2026)</h3>
+# Hi 👋, I'm Arjun Gaur  
 
-<p align="center">
-  I build data products that combine <b>dashboards, predictive models, and APIs</b><br/>
-  to turn raw data into clear, actionable insights for business teams.
-</p>
+**QA Automation • Software Testing • AI-Assisted Quality Engineering**  
+🎓 B.Tech Artificial Intelligence & Machine Learning (2022–2026)
+
+I focus on building **reliable automation tests**, validating **data-driven systems**,  
+and improving software quality using **automation, APIs, and intelligent checks**.  
+My AI/ML background helps me test **complex logic, data pipelines, and predictive systems** more effectively.
 
 ---
 
-### 👨‍🎓 About Me  
+## 👨‍🎓 About Me
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning (2022–2026)
+- 🧪 **QA Automation Intern**
+- 🔍 Strong foundation in **manual testing + automation concepts**
+- 🤖 Background in AI/ML for **data validation & intelligent test analysis**
+- 🎯 Target roles: **QA Automation Engineer | SDET | Test Engineer (Entry-Level)**
+- 📫 Reach me at: **arjungaur2727@gmail.com**
 
-- 🎓 **B.Tech in AI & ML (2022–2026)** – Delhi Technical Campus, GGSIPU  
-- 💼 **Business Intelligence Intern (May–Aug 2025)** – Cliqvenus  
-- 📊 I love working at the intersection of **BI dashboards, ETL pipelines, and ML models**  
-- 🔍 Target roles: **Data Analyst, BI Developer, Analytics Engineer, ML Engineer (Entry-Level)**  
-- 🤝 I enjoy collaborating with **marketing, sales, and operations teams** to define KPIs & build useful reports  
-- 📫 Reach me: **arjungaur2727@gmail.com**  
+---
 
+## 🧪 QA & AUTOMATION SKILLS
+
+### 🔹 Software Testing Fundamentals
+- SDLC & STLC  
+- Test case & test scenario design  
+- Functional, Regression, Smoke & Sanity testing  
+- Bug life cycle, severity vs priority  
+- Black-box testing techniques  
+
+### 🔹 Automation & API Testing
+- **Playwright / Selenium (learning & implementing)**
+- JavaScript & Python for automation
+- API testing using **Postman & REST APIs**
+- Data-driven and modular test frameworks
+- Debugging, logs, and test reporting
+
+### 🔹 Quality Engineering Practices
+- Shift-left testing mindset  
+- Requirement analysis & acceptance validation  
+- Data accuracy and consistency checks  
+- Risk-based testing approach  
+
+---
+
+## 💼 Experience
+
+### **QA Automation Intern – Cliqvenus**  
+📍 *May 2025 – Aug 2025*
+
+- Designed and executed **manual test cases** for web-based dashboards and internal tools.
+- Automated **data validation checks** using Python & SQL to ensure accuracy across multiple data sources.
+- Performed **API testing** to validate backend data consumed by dashboards and services.
+- Verified business logic, calculations, filters, and edge cases across releases.
+- Identified, logged, and tracked defects while collaborating with developers for resolution.
+- Assisted in improving **regression coverage** by automating repetitive validation scenarios.
+- Participated in requirement discussions to clarify acceptance criteria and expected behavior.
+
+> 💡 Exposure to data-intensive and ML-backed systems helped strengthen my testing of complex workflows.
+
+---
+
+## 🧠 Projects (QA + AI/ML Relevance)
+
+### 🧪 **Automation Validation on Data-Driven Dashboards**
+**Python • SQL • Qlik Sense**
+
+- Validated correctness of KPIs, filters, and transformations.
+- Automated sanity checks to catch missing, duplicate, or inconsistent data.
+- Focused on regression stability across frequent data refreshes.
+
+---
+
+### 💬 **Prompt-Driven Analytics System – Testing Perspective**
+**Python • Flask • OpenAI API**
+
+- Tested API responses, input validation, and failure scenarios.
+- Verified correctness and consistency of generated outputs.
+- Focused on reliability, edge cases, and error handling.
+
+---
+
+### 🏏 **IPL Score Predictor (ML Demo – Validation Focus)**
+**Python • Pandas • XGBoost**
+
+- Tested ML pipeline inputs, feature calculations, and outputs.
+- Validated predictions against historical data.
+- Used project to understand testing challenges in ML-based systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧪 QA & Automation
+- Playwright / Selenium
+- JavaScript, Python
+- Postman, REST APIs
+- Test case design & defect tracking
+
+### 🤖 AI / Data (Value Add)
+- Python (Pandas, NumPy)
+- ML output validation
+- Data consistency & anomaly detection
+
+### ⚙️ Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 💡 What Makes Me Different as a QA
+- I understand **how systems are built**, not just how to test them.
+- I can validate **data-heavy and ML-driven applications** confidently.
+- I focus on **quality, reliability, and automation-first thinking**.
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn  
+- 🐦 Twitter  
+- 📸 Instagram  
+
+---
+
+🚀 *Actively seeking **QA Automation / SDET (Entry-Level)** opportunities to grow into a strong automation-focused quality engineer.*
 ---
 
 ### 💼 Experience
