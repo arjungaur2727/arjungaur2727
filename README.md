@@ -29,7 +29,7 @@ My AI/ML background helps me test **complex logic, data pipelines, and predictiv
 - Black-box testing techniques  
 
 ### 🔹 Automation & API Testing
-- **Playwright / Selenium (learning & implementing)**
+- **Playwright (learning & implementing)**
 - JavaScript & Python for automation
 - API testing using **Postman & REST APIs**
 - Data-driven and modular test frameworks
@@ -128,7 +128,7 @@ My AI/ML background helps me test **complex logic, data pipelines, and predictiv
 
 ### 💼 Experience
 
-#### Business Intelligence Intern – Cliqvenus (May 2025 – Aug 2025)
+#### Business Intelligence Intern – Cliqvenus (May 2025 – Oct 2025)
 - Designed and deployed **AI-augmented Qlik Sense dashboards** (sales, regional performance, profit/margin, inventory alerts) used daily by operations & sales managers.  
 - Built **automated ETL pipelines** in Python & SQL to unify ERP, CRM and marketing feeds into a single data model, reducing manual report prep by **10+ hours/week**.  
 - Resolved **circular key issues** and implemented a **canonical date model + link table strategy**, improving model stability and reload performance.  
